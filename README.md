@@ -30,12 +30,14 @@ By learning this process, the decoder becomes a powerful generator, capable of c
 
 ### Image Reconstruction
 The model first learns to reconstruct images from the dataset, demonstrating that it has successfully captured the core structural features of the cracks.
+
 ![vae_reconstruction](vae_reconstruction_comparison.png)
 
 ### Synthetic Image Generation
 Once trained, the model can generate an endless supply of new, realistic crack images for data augmentation.
 
-![crack_images](ssynthetic_crack_images.png)
+![crack_images](synthetic_crack_images.png)
+
 ---
 
 ## 🛠️ Getting Started
