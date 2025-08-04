@@ -65,4 +65,4 @@ if __name__ == '__main__':
     print("Dataset preparation complete.")
 
 
-# python prepare_dataset.py --raw_dir /path/to/your/raw_images --processed_dir /path/to/your/processed_images --img_size 256
+# python prepare_dataset.py --raw_dir raw_crack_images --processed_dir processed_images --img_size 256
